@@ -1,0 +1,225 @@
+{
+  "resources/css/accessibility-improvements.css": {
+    "file": "css/accessibility-improvements-DbSf2KHI.css",
+    "src": "resources/css/accessibility-improvements.css",
+    "isEntry": true
+  },
+  "resources/css/aiz-core.css": {
+    "file": "css/aiz-core-CtFqVdZ4.css",
+    "src": "resources/css/aiz-core.css",
+    "isEntry": true
+  },
+  "resources/css/backend.css": {
+    "file": "css/backend-CXLn8PSS.css",
+    "src": "resources/css/backend.css",
+    "isEntry": true
+  },
+  "resources/css/critical.css": {
+    "file": "css/critical-of7XTmR_.css",
+    "src": "resources/css/critical.css",
+    "isEntry": true
+  },
+  "resources/css/css/all.css": {
+    "file": "css/all-CaQpy389.css",
+    "src": "resources/css/css/all.css",
+    "isEntry": true
+  },
+  "resources/css/custom-category-menu.css": {
+    "file": "css/custom-category-menu-Cv1WW_qD.css",
+    "src": "resources/css/custom-category-menu.css",
+    "isEntry": true
+  },
+  "resources/css/custom-style.css": {
+    "file": "css/custom-style-CaW8j0Yi.css",
+    "src": "resources/css/custom-style.css",
+    "isEntry": true
+  },
+  "resources/css/dark-sidebar.css": {
+    "file": "css/dark-sidebar-nHl19uWI.css",
+    "src": "resources/css/dark-sidebar.css",
+    "isEntry": true
+  },
+  "resources/css/flag-icons-css.css": {
+    "file": "css/flag-icons-css-DjWr8SGw.css",
+    "src": "resources/css/flag-icons-css.css",
+    "isEntry": true
+  },
+  "resources/css/font/summernote.eot": {
+    "file": "fonts/summernote-DScJrmJ1.eot",
+    "src": "resources/css/font/summernote.eot"
+  },
+  "resources/css/font/summernote.ttf": {
+    "file": "fonts/summernote-4XkBPIRA.ttf",
+    "src": "resources/css/font/summernote.ttf"
+  },
+  "resources/css/font/summernote.woff": {
+    "file": "fonts/summernote-DEekNz6a.woff",
+    "src": "resources/css/font/summernote.woff"
+  },
+  "resources/css/font/summernote.woff2": {
+    "file": "fonts/summernote-PMqM9czq.woff2",
+    "src": "resources/css/font/summernote.woff2"
+  },
+  "resources/css/modern-navbar.css": {
+    "file": "css/modern-navbar-CGdzGiFc.css",
+    "src": "resources/css/modern-navbar.css",
+    "isEntry": true
+  },
+  "resources/css/poppins/poppins-v20-latin-500.woff2": {
+    "file": "fonts/poppins-v20-latin-500-C8OXljZJ.woff2",
+    "src": "resources/css/poppins/poppins-v20-latin-500.woff2"
+  },
+  "resources/css/poppins/poppins-v20-latin-700.woff2": {
+    "file": "fonts/poppins-v20-latin-700-Qrb0O0WB.woff2",
+    "src": "resources/css/poppins/poppins-v20-latin-700.woff2"
+  },
+  "resources/css/poppins/poppins-v20-latin-regular.woff2": {
+    "file": "fonts/poppins-v20-latin-regular-cpxAROuN.woff2",
+    "src": "resources/css/poppins/poppins-v20-latin-regular.woff2"
+  },
+  "resources/css/public-sans.css": {
+    "file": "css/public-sans-tn0RQdqM.css",
+    "src": "resources/css/public-sans.css",
+    "isEntry": true
+  },
+  "resources/css/public-sans/public-sans-v15-latin-500.woff2": {
+    "file": "fonts/public-sans-v15-latin-500-NlrCPXnF.woff2",
+    "src": "resources/css/public-sans/public-sans-v15-latin-500.woff2"
+  },
+  "resources/css/public-sans/public-sans-v15-latin-700.woff2": {
+    "file": "fonts/public-sans-v15-latin-700-BqJmxWdE.woff2",
+    "src": "resources/css/public-sans/public-sans-v15-latin-700.woff2"
+  },
+  "resources/css/public-sans/public-sans-v15-latin-regular.woff2": {
+    "file": "fonts/public-sans-v15-latin-regular-8Rpg0ruU.woff2",
+    "src": "resources/css/public-sans/public-sans-v15-latin-regular.woff2"
+  },
+  "resources/css/seller.css": {
+    "file": "css/seller-BKepwthn.css",
+    "src": "resources/css/seller.css",
+    "isEntry": true
+  },
+  "resources/css/vendors.css": {
+    "file": "css/vendors-Cfm1BE_4.css",
+    "src": "resources/css/vendors.css",
+    "isEntry": true
+  },
+  "resources/css/webfonts/fa-brands-400.ttf": {
+    "file": "fonts/fa-brands-400-DHHcbFjz.ttf",
+    "src": "resources/css/webfonts/fa-brands-400.ttf"
+  },
+  "resources/css/webfonts/fa-brands-400.woff2": {
+    "file": "fonts/fa-brands-400-Ch568Ea9.woff2",
+    "src": "resources/css/webfonts/fa-brands-400.woff2"
+  },
+  "resources/css/webfonts/fa-regular-400.ttf": {
+    "file": "fonts/fa-regular-400-C54-fRIQ.ttf",
+    "src": "resources/css/webfonts/fa-regular-400.ttf"
+  },
+  "resources/css/webfonts/fa-regular-400.woff2": {
+    "file": "fonts/fa-regular-400-9VThgXHM.woff2",
+    "src": "resources/css/webfonts/fa-regular-400.woff2"
+  },
+  "resources/css/webfonts/fa-solid-900.ttf": {
+    "file": "fonts/fa-solid-900-Cm9M9sZB.ttf",
+    "src": "resources/css/webfonts/fa-solid-900.ttf"
+  },
+  "resources/css/webfonts/fa-solid-900.woff2": {
+    "file": "fonts/fa-solid-900-QWY35r5r.woff2",
+    "src": "resources/css/webfonts/fa-solid-900.woff2"
+  },
+  "resources/css/webfonts/fa-v4compatibility.ttf": {
+    "file": "fonts/fa-v4compatibility-DLBX5pNp.ttf",
+    "src": "resources/css/webfonts/fa-v4compatibility.ttf"
+  },
+  "resources/css/webfonts/fa-v4compatibility.woff2": {
+    "file": "fonts/fa-v4compatibility-BRdYr4HJ.woff2",
+    "src": "resources/css/webfonts/fa-v4compatibility.woff2"
+  },
+  "resources/fonts/la-brands-400.eot": {
+    "file": "fonts/la-brands-400-LN4CMlGg.eot",
+    "src": "resources/fonts/la-brands-400.eot"
+  },
+  "resources/fonts/la-brands-400.svg": {
+    "file": "images/la-brands-400-DF2WJeNE.svg",
+    "src": "resources/fonts/la-brands-400.svg"
+  },
+  "resources/fonts/la-brands-400.ttf": {
+    "file": "fonts/la-brands-400-gDglUfU7.ttf",
+    "src": "resources/fonts/la-brands-400.ttf"
+  },
+  "resources/fonts/la-brands-400.woff": {
+    "file": "fonts/la-brands-400-D0lxOIwB.woff",
+    "src": "resources/fonts/la-brands-400.woff"
+  },
+  "resources/fonts/la-brands-400.woff2": {
+    "file": "fonts/la-brands-400-Cq-R4OEF.woff2",
+    "src": "resources/fonts/la-brands-400.woff2"
+  },
+  "resources/fonts/la-regular-400.eot": {
+    "file": "fonts/la-regular-400-Cx6vm3uW.eot",
+    "src": "resources/fonts/la-regular-400.eot"
+  },
+  "resources/fonts/la-regular-400.svg": {
+    "file": "images/la-regular-400-DEMIstEh.svg",
+    "src": "resources/fonts/la-regular-400.svg"
+  },
+  "resources/fonts/la-regular-400.ttf": {
+    "file": "fonts/la-regular-400-CmnW_RTo.ttf",
+    "src": "resources/fonts/la-regular-400.ttf"
+  },
+  "resources/fonts/la-regular-400.woff": {
+    "file": "fonts/la-regular-400-ehe5HgcS.woff",
+    "src": "resources/fonts/la-regular-400.woff"
+  },
+  "resources/fonts/la-regular-400.woff2": {
+    "file": "fonts/la-regular-400-DuFMN_sw.woff2",
+    "src": "resources/fonts/la-regular-400.woff2"
+  },
+  "resources/fonts/la-solid-900.eot": {
+    "file": "fonts/la-solid-900-DkmX4G2x.eot",
+    "src": "resources/fonts/la-solid-900.eot"
+  },
+  "resources/fonts/la-solid-900.svg": {
+    "file": "images/la-solid-900-D5IO3BOs.svg",
+    "src": "resources/fonts/la-solid-900.svg"
+  },
+  "resources/fonts/la-solid-900.ttf": {
+    "file": "fonts/la-solid-900-BUOWlSBQ.ttf",
+    "src": "resources/fonts/la-solid-900.ttf"
+  },
+  "resources/fonts/la-solid-900.woff": {
+    "file": "fonts/la-solid-900-CR_Kd-su.woff",
+    "src": "resources/fonts/la-solid-900.woff"
+  },
+  "resources/fonts/la-solid-900.woff2": {
+    "file": "fonts/la-solid-900-TjMEgv3Q.woff2",
+    "src": "resources/fonts/la-solid-900.woff2"
+  },
+  "resources/img/flags.png": {
+    "file": "images/flags-41zgeiS_.png",
+    "src": "resources/img/flags.png"
+  },
+  "resources/img/flags@2x.png": {
+    "file": "images/flags@2x-hM8LloC1.png",
+    "src": "resources/img/flags@2x.png"
+  },
+  "resources/js/backend.js": {
+    "file": "js/backend-l0sNRNKZ.js",
+    "name": "backend",
+    "src": "resources/js/backend.js",
+    "isEntry": true
+  },
+  "resources/js/frontend.js": {
+    "file": "js/frontend-l0sNRNKZ.js",
+    "name": "frontend",
+    "src": "resources/js/frontend.js",
+    "isEntry": true
+  },
+  "resources/js/seller.js": {
+    "file": "js/seller-l0sNRNKZ.js",
+    "name": "seller",
+    "src": "resources/js/seller.js",
+    "isEntry": true
+  }
+}
