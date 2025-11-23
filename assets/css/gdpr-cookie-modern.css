@@ -1,0 +1,84 @@
+/* 
+ * Estilos personalizados para CookieConsent de GranPlaza
+ * Compatibles con el theme actual del sitio
+ */
+
+/* Variables CSS para fácil personalización */
+:root {
+  --cc-primary-color: #8605c2;
+  --cc-bg-color: #ffffff;
+  --cc-text-color: #1b1b1b;
+  --cc-btn-text-color: #ffffff;
+  --cc-border-radius: 8px;
+  --cc-box-shadow: 0 4px 20px rgba(134, 5, 194, 0.15);
+}
+
+/* Personalización del modal de consentimiento */
+
+/* Título del modal */
+
+/* Descripción */
+
+/* Botones */
+
+/* Botón principal (Aceptar Todo) */
+
+/* Botón secundario (Solo Necesarias) */
+
+/* Enlaces */
+
+/* Modal de preferencias */
+
+/* Título del modal de preferencias */
+
+/* Secciones de preferencias */
+
+/* Títulos de sección */
+
+/* Descripciones de sección */
+
+/* Switches/toggles */
+
+/* Tabla de cookies */
+
+/* Botones del modal de preferencias */
+
+/* Responsive design */
+
+/* Dark mode support */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --cc-bg-color: #2a2a2a;
+    --cc-text-color: #ffffff;
+  }
+}
+
+/* Animaciones mejoradas */
+
+@keyframes slideInUp {
+  from {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* Integración con el theme de GranPlaza */
+
+/* Accesibilidad mejorada */
+
+/* High contrast mode */
