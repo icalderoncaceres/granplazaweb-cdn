@@ -1,16 +1,16 @@
 {
   "resources/css/accessibility-improvements.css": {
-    "file": "css/accessibility-improvements-DbSf2KHI.css",
+    "file": "css/accessibility-improvements-Dt3uX0eX.css",
     "src": "resources/css/accessibility-improvements.css",
     "isEntry": true
   },
   "resources/css/aiz-core.css": {
-    "file": "css/aiz-core-CtFqVdZ4.css",
+    "file": "css/aiz-core-BsnHMQk9.css",
     "src": "resources/css/aiz-core.css",
     "isEntry": true
   },
   "resources/css/backend.css": {
-    "file": "css/backend-DzwmpBdb.css",
+    "file": "css/backend-NDkcpbOZ.css",
     "src": "resources/css/backend.css",
     "isEntry": true
   },
@@ -95,7 +95,7 @@
     "src": "resources/css/public-sans/public-sans-v15-latin-regular.woff2"
   },
   "resources/css/seller.css": {
-    "file": "css/seller-CXeREv53.css",
+    "file": "css/seller-BJSLxFcd.css",
     "src": "resources/css/seller.css",
     "isEntry": true
   },
