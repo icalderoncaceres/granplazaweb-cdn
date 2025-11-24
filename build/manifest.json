@@ -10,7 +10,7 @@
     "isEntry": true
   },
   "resources/css/backend.css": {
-    "file": "css/backend-CgI8Sp5L.css",
+    "file": "css/backend-BdhuWXvH.css",
     "src": "resources/css/backend.css",
     "isEntry": true
   },
@@ -60,6 +60,11 @@
     "src": "resources/css/metro-theme.css",
     "isEntry": true
   },
+  "resources/css/modern-category-menu.css": {
+    "file": "css/modern-category-menu-r0_yGYlU.css",
+    "src": "resources/css/modern-category-menu.css",
+    "isEntry": true
+  },
   "resources/css/modern-navbar.css": {
     "file": "css/modern-navbar-DSpBanpI.css",
     "src": "resources/css/modern-navbar.css",
@@ -95,12 +100,12 @@
     "src": "resources/css/public-sans/public-sans-v15-latin-regular.woff2"
   },
   "resources/css/seller.css": {
-    "file": "css/seller-CRAVTBCC.css",
+    "file": "css/seller-DeaCAW22.css",
     "src": "resources/css/seller.css",
     "isEntry": true
   },
   "resources/css/vendors.css": {
-    "file": "css/vendors-Br4xFFsC.css",
+    "file": "css/vendors-C5dVefjn.css",
     "src": "resources/css/vendors.css",
     "isEntry": true
   },
