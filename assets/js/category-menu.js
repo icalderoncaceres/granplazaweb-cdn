@@ -19,6 +19,11 @@ document.addEventListener("DOMContentLoaded", function () {
                         n.matches(":hover") || n.classList.add("d-none");
                     }, 50);
             });
+        
+        // Solo aplicar delay en home page - en otras páginas permitir clicks inmediatos
+        const isHomePage = window.location.pathname === '/' || window.location.pathname === '/home';
+        const delayTime = isHomePage ? 400 : 100;
+        
         let t = null;
         document
             .querySelectorAll(".category-nav-element")
@@ -36,7 +41,17 @@ document.addEventListener("DOMContentLoaded", function () {
                         t = setTimeout(function () {
                             (n.style.display = "none"),
                                 n.classList.remove("loaded");
-                        }, 400);
+                        }, delayTime);
+                    }),
+                    // Cancelar cierre si el mouse entra al submenú
+                    n.addEventListener("mouseenter", function () {
+                        clearTimeout(t);
+                    }),
+                    n.addEventListener("mouseleave", function () {
+                        t = setTimeout(function () {
+                            (n.style.display = "none"),
+                                n.classList.remove("loaded");
+                        }, delayTime);
                     }));
             });
     }
