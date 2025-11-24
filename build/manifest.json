@@ -14,6 +14,11 @@
     "src": "resources/css/backend.css",
     "isEntry": true
   },
+  "resources/css/category-megamenu.css": {
+    "file": "css/category-megamenu-7HnVzHht.css",
+    "src": "resources/css/category-megamenu.css",
+    "isEntry": true
+  },
   "resources/css/critical.css": {
     "file": "css/critical-of7XTmR_.css",
     "src": "resources/css/critical.css",
@@ -58,11 +63,6 @@
   "resources/css/metro-theme.css": {
     "file": "css/metro-theme-BXB73F6I.css",
     "src": "resources/css/metro-theme.css",
-    "isEntry": true
-  },
-  "resources/css/modern-category-menu.css": {
-    "file": "css/modern-category-menu-r0_yGYlU.css",
-    "src": "resources/css/modern-category-menu.css",
     "isEntry": true
   },
   "resources/css/modern-navbar.css": {
