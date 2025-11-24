@@ -60,6 +60,11 @@
     "file": "fonts/summernote-PMqM9czq.woff2",
     "src": "resources/css/font/summernote.woff2"
   },
+  "resources/css/metro-theme.css": {
+    "file": "css/metro-theme-BiqEsc8W.css",
+    "src": "resources/css/metro-theme.css",
+    "isEntry": true
+  },
   "resources/css/modern-navbar.css": {
     "file": "css/modern-navbar-CGdzGiFc.css",
     "src": "resources/css/modern-navbar.css",
