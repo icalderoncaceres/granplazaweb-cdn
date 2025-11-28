@@ -1,6 +1,6 @@
 {
   "resources/css/accessibility-improvements.css": {
-    "file": "css/accessibility-improvements-Dt3uX0eX.css",
+    "file": "css/accessibility-improvements-Bw-CSM4A.css",
     "src": "resources/css/accessibility-improvements.css",
     "isEntry": true
   },
@@ -10,7 +10,7 @@
     "isEntry": true
   },
   "resources/css/backend.css": {
-    "file": "css/backend-1Zh-cVZH.css",
+    "file": "css/backend--jNMK3Tt.css",
     "src": "resources/css/backend.css",
     "isEntry": true
   },
@@ -66,7 +66,7 @@
     "isEntry": true
   },
   "resources/css/modern-navbar.css": {
-    "file": "css/modern-navbar-CGdzGiFc.css",
+    "file": "css/modern-navbar-BiUJwYeU.css",
     "src": "resources/css/modern-navbar.css",
     "isEntry": true
   },
@@ -100,12 +100,12 @@
     "src": "resources/css/public-sans/public-sans-v15-latin-regular.woff2"
   },
   "resources/css/seller.css": {
-    "file": "css/seller-DIegtM87.css",
+    "file": "css/seller-ZPL7VYf9.css",
     "src": "resources/css/seller.css",
     "isEntry": true
   },
   "resources/css/vendors.css": {
-    "file": "css/vendors-DgA4RFmL.css",
+    "file": "css/vendors-Ba0itCSC.css",
     "src": "resources/css/vendors.css",
     "isEntry": true
   },
